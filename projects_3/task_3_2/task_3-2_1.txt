@@ -1,0 +1,7 @@
+
+    Directory: C:\Users\User\Documents\fidarova aa\projects_3\task_3_2\GenomicData
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a---          12.03.2026    20:08              0 sequencing_backup.log
+
